@@ -1,5 +1,5 @@
 # Web_Scraper
-Web scraping code using Python with the help of the BeautifulSoup library
+Web scraping code using Python with the help of the BeautifulSoup library.
 
 Make sure you have the requests and beautifulsoup4 libraries installed. You can install them using pip install requests beautifulsoup4.
 
